@@ -3,7 +3,6 @@
 #include <DHT.h>
 #include <ArduinoJson.h>
 #include "RestClient.h"
-#include "Servo.h"
 
 #define IP "192.168.0.6"
 #define PORT 3000
